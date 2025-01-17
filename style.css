@@ -16,10 +16,19 @@ body {
 .header {
     display: flex;
     border:solid;
+    align-items: center;
+    justify-content: space-between;
+    
+    padding:16px;
+
 }
 .header-title {
     font-size: 24px;
     color:#F9FAF8;
+}
+.header-links-container {
+    display:flex;
+    gap:16px;
 }
 .header-links {
     font-size:18px;
@@ -29,7 +38,7 @@ body {
     display:flex;
 }
 .header-body-item {
- 
+    
 
 }
 
