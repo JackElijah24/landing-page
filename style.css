@@ -114,5 +114,41 @@ img {
 
 .container-2-item-text {
     font-size: 18px;
-    color:#64768f;
+    color:#949597;
 }
+
+
+
+.container-3 {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding:128px;
+}
+
+.container-3-item {
+    width:800px;
+}
+
+.container-3-quote {
+    font-size:32px;
+    font-style: italic;
+    font-weight:lighter;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   
+    
+}
+
+.container-3-quote-author {
+    font-size:18px;
+    color:#1F2937;
+    font-weight: 700;
+    text-align: right;
+    
+    
+}
+
