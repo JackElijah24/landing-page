@@ -152,3 +152,36 @@ img {
     
 }
 
+.container-4 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding:64px 128px;
+}
+
+
+.container-4-item {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882F6;
+    flex:1;
+    padding:64px 128px;
+    border-radius:8px;
+    
+    
+}
+
+.container-4-text {
+    display:flex;
+    justify-content: space-between;
+    border:solid;
+    flex:1;
+    
+    
+
+}
+
+.container-5{
+    border:solid;
+}
